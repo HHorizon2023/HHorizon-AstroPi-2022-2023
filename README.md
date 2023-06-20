@@ -9,6 +9,6 @@ Below is the link to the Desmos plot of the graph
 
 https://www.desmos.com/calculator/nvaixd85ib
 
-# Special Thankyous
+# Special Thank Yous
 
 Big Thanks to the Mathematics, Computer Science, Physics and Design Technology for aiding us in the Astro Pi competiton
